@@ -1,3 +1,6 @@
+##its output prediction is not good because i use very small dataset, you can use (IMDB Dataset of 50K Movie Reviews) dataset 
+# from kaggle 
+
 import numpy as np
 
 from sklearn.model_selection import train_test_split
